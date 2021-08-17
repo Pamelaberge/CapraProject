@@ -1,2 +1,2 @@
 # Capra Project
-Object detection for mobile robots using pythong
+Object detection for mobile robots using python
